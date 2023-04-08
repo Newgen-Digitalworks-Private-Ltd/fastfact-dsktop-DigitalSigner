@@ -1,0 +1,12 @@
+D:\Esignature_src\iTextSharpSign\bin\Debug\iTextSharpSign.exe
+D:\Esignature_src\iTextSharpSign\bin\Debug\iTextSharpSign.pdb
+D:\Esignature_src\iTextSharpSign\obj\Debug\iTextSharpSign.Form1.resources
+D:\Esignature_src\iTextSharpSign\obj\Debug\iTextSharpSign.csproj.GenerateResource.cache
+D:\Esignature_src\iTextSharpSign\obj\Debug\iTextSharpSign.csproj.CoreCompileInputs.cache
+D:\Esignature_src\iTextSharpSign\obj\Debug\iTextSharpSign.csproj.CopyComplete
+D:\Esignature_src\iTextSharpSign\bin\Debug\iTextSharpSampleDigiSign.exe
+D:\Esignature_src\iTextSharpSign\bin\Debug\iTextSharpSampleDigiSign.pdb
+D:\Esignature_src\iTextSharpSign\obj\Debug\iTextSharpSampleDigiSign.Properties.Resources.resources
+D:\Esignature_src\iTextSharpSign\obj\Debug\iTextSharpSampleDigiSign.exe
+D:\Esignature_src\iTextSharpSign\obj\Debug\iTextSharpSampleDigiSign.pdb
+D:\Esignature_src\iTextSharpSign\obj\Debug\iTextSharpSign.csprojAssemblyReference.cache

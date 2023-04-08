@@ -1,0 +1,211 @@
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\bin\DigitalSigner.exe.config
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\obj\Debug\DigitalSigner.vbproj.ResolveComReference.cache
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\bin\DigitalSigner.exe
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\bin\DigitalSigner.pdb
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\bin\DigitalSigner.xml
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmInitals.resources
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmOptions.resources
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmPrint.resources
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmReport.resources
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmSelectEmp.resources
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmShowReport.resources
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmSplash.resources
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmLogin.resources
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmMain.resources
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmSendMail.resources
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\obj\Debug\DigitalSigner.Resources.resources
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\obj\Debug\DigitalSigner.vbproj.GenerateResource.Cache
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\obj\Debug\DigitalSigner.exe
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\obj\Debug\DigitalSigner.xml
+C:\Project\FastFacts\FFCS Projects\DotNet Projects\Window Based\DigitalSigner_Integration\obj\Debug\DigitalSigner.pdb
+D:\FastFact\dev\DigitalSigner_Integration\bin\DigitalSigner.exe.config
+D:\FastFact\dev\DigitalSigner_Integration\bin\DigitalSigner.exe
+D:\FastFact\dev\DigitalSigner_Integration\bin\DigitalSigner.pdb
+D:\FastFact\dev\DigitalSigner_Integration\bin\DigitalSigner.xml
+D:\FastFact\dev\DigitalSigner_Integration\bin\office.dll
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.vbproj.ResolveComReference.cache
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmInitals.resources
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmOptions.resources
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmPrint.resources
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmReport.resources
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmSelectEmp.resources
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmShowReport.resources
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmSplash.resources
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmLogin.resources
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmMain.resources
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.frmSendMail.resources
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.Resources.resources
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.vbproj.GenerateResource.Cache
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.exe
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.xml
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.pdb
+D:\FastFact\dev\DigitalSigner_Integration\obj\Debug\DigitalSigner.vbprojResolveAssemblyReference.cache
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\bin\DigitalSigner.exe.config
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.vbproj.ResolveComReference.cache
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.exe
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.xml
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.pdb
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\bin\DigitalSigner.exe
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\bin\DigitalSigner.pdb
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\bin\DigitalSigner.xml
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmInitals.resources
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmOptions.resources
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmPrint.resources
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmReport.resources
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmSelectEmp.resources
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmShowReport.resources
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmSplash.resources
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmLogin.resources
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmMain.resources
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmSendMail.resources
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.Resources.resources
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.vbproj.GenerateResource.Cache
+C:\Projects\Vishal\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.vbprojResolveAssemblyReference.cache
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\bin\DigitalSigner.exe.config
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\bin\DigitalSigner.exe
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\bin\DigitalSigner.pdb
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\bin\DigitalSigner.xml
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\bin\stdole.dll
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.vbprojAssemblyReference.cache
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.vbproj.ResolveComReference.cache
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.FrmEmailStatus.resources
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmInitals.resources
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmOptions.resources
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmPrint.resources
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmReport.resources
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmSelectEmp.resources
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmShowReport.resources
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmSplash.resources
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmLogin.resources
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmMain.resources
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.frmSendMail.resources
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.Resources.resources
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.vbproj.GenerateResource.cache
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.vbproj.CoreCompileInputs.cache
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.vbproj.CopyComplete
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.exe
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.xml
+D:\NewGenOfz\R&D\fastfactteam-fastfact-desktop-digitalsigner-060f2066222e\obj\Debug\DigitalSigner.pdb
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\bin\DigitalSigner.exe.config
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\bin\DigitalSigner.exe
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\bin\DigitalSigner.pdb
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\bin\DigitalSigner.xml
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\bin\iTextSharpDigiSign.exe
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\bin\BouncyCastle.Crypto.dll
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\bin\itextsharp.dll
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\bin\stdole.dll
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\bin\iTextSharpDigiSign.pdb
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\bin\itextsharp.xml
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.vbprojAssemblyReference.cache
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.vbproj.ResolveComReference.cache
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.FrmEmailStatus.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmInitals.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmOptions.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmPrint.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmReport.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmSelectEmp.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmShowReport.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmSplash.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmLogin.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmMain.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmSendMail.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.Resources.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.vbproj.GenerateResource.cache
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.vbproj.CoreCompileInputs.cache
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.vbproj.CopyComplete
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.exe
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.xml
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.pdb
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\bin\DigitalSigner.exe.config
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\bin\DigitalSigner.exe
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\bin\DigitalSigner.pdb
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\bin\DigitalSigner.xml
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\bin\iTextSharpDigiSign.dll
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\bin\BouncyCastle.Crypto.dll
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\bin\itextsharp.dll
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\bin\stdole.dll
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\bin\iTextSharpDigiSign.pdb
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\bin\itextsharp.xml
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.vbproj.AssemblyReference.cache
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.vbproj.ResolveComReference.cache
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.FrmEmailStatus.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmInitals.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmOptions.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmPrint.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmReport.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmSelectEmp.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmShowReport.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmSplash.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmLogin.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmMain.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmSendMail.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.Resources.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.frmsignaturetype.resources
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.vbproj.GenerateResource.cache
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.vbproj.CoreCompileInputs.cache
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.vbproj.CopyComplete
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.exe
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.xml
+D:\NewGenOfz\R&D\itextsharp_FF_DigitalSigner_UI_Redefined\fastfactteam-fastfact-desktop-digitalsigner\obj\Debug\DigitalSigner.pdb
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\bin\BouncyCastle.Crypto.dll
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\bin\DigitalSigner.exe.config
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\bin\DigitalSigner.exe
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\bin\DigitalSigner.pdb
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\bin\DigitalSigner.xml
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\bin\iTextSharpDigiSign.dll
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\bin\itextsharp.dll
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\bin\stdole.dll
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\bin\iTextSharpDigiSign.pdb
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\bin\itextsharp.xml
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.vbproj.AssemblyReference.cache
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.vbproj.ResolveComReference.cache
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.FrmEmailStatus.resources
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.frmInitals.resources
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.frmOptions.resources
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.frmPrint.resources
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.frmReport.resources
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.frmSelectEmp.resources
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.frmShowReport.resources
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.frmSplash.resources
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.frmLogin.resources
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.frmMain.resources
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.frmSendMail.resources
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.Resources.resources
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.frmsignaturetype.resources
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.vbproj.GenerateResource.cache
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.vbproj.CoreCompileInputs.cache
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.vbproj.CopyComplete
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.exe
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.xml
+D:\Development\LiveSources\fastfact-desktop-digitalsigner\digitalsigner\obj\Debug\DigitalSigner.pdb
+D:\Anu\work\Sources\digitalsigner\bin\DigitalSigner.exe.config
+D:\Anu\work\Sources\digitalsigner\bin\DigitalSigner.exe
+D:\Anu\work\Sources\digitalsigner\bin\DigitalSigner.pdb
+D:\Anu\work\Sources\digitalsigner\bin\DigitalSigner.xml
+D:\Anu\work\Sources\digitalsigner\bin\iTextSharpDigiSign.dll
+D:\Anu\work\Sources\digitalsigner\bin\BouncyCastle.Crypto.dll
+D:\Anu\work\Sources\digitalsigner\bin\itextsharp.dll
+D:\Anu\work\Sources\digitalsigner\bin\stdole.dll
+D:\Anu\work\Sources\digitalsigner\bin\iTextSharpDigiSign.pdb
+D:\Anu\work\Sources\digitalsigner\bin\itextsharp.xml
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.vbproj.AssemblyReference.cache
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.vbproj.ResolveComReference.cache
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.FrmEmailStatus.resources
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.frmInitals.resources
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.frmOptions.resources
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.frmPrint.resources
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.frmReport.resources
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.frmSelectEmp.resources
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.frmShowReport.resources
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.frmSplash.resources
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.frmLogin.resources
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.frmMain.resources
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.frmSendMail.resources
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.Resources.resources
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.frmsignaturetype.resources
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.vbproj.GenerateResource.cache
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.vbproj.CoreCompileInputs.cache
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.vbproj.CopyComplete
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.exe
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.xml
+D:\Anu\work\Sources\digitalsigner\obj\Debug\DigitalSigner.pdb

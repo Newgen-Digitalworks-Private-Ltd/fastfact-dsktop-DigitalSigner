@@ -1,0 +1,112 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DigitalSigner
+</name>
+</assembly>
+<members>
+<member name="T:DigitalSigner.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DigitalSigner.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DigitalSigner.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:DigitalSigner.My.Resources.Resources.btnBrowseCSI_BackgroundImage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DigitalSigner.My.Resources.Resources.DG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DigitalSigner.My.Resources.Resources.DG1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DigitalSigner.My.Resources.Resources.DG2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DigitalSigner.My.Resources.Resources.logo_fastfacts">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DigitalSigner.My.Resources.Resources.PayPac">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:DigitalSigner.My.Resources.Resources.ToolTip">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:DigitalSigner.ffcsCMSL.UpgradeLicense">
+<remarks/>
+</member>
+<member name="M:DigitalSigner.ffcsCMSL.UpgradeLicense.#ctor">
+<remarks/>
+</member>
+<member name="E:DigitalSigner.ffcsCMSL.UpgradeLicense.GetFinYearCompleted">
+<remarks/>
+</member>
+<member name="E:DigitalSigner.ffcsCMSL.UpgradeLicense.GetCustSerialNoByLicNoCompleted">
+<remarks/>
+</member>
+<member name="M:DigitalSigner.ffcsCMSL.UpgradeLicense.GetFinYear(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:DigitalSigner.ffcsCMSL.UpgradeLicense.GetFinYearAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:DigitalSigner.ffcsCMSL.UpgradeLicense.GetFinYearAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:DigitalSigner.ffcsCMSL.UpgradeLicense.GetCustSerialNoByLicNo(System.String)">
+<remarks/>
+</member>
+<member name="M:DigitalSigner.ffcsCMSL.UpgradeLicense.GetCustSerialNoByLicNoAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:DigitalSigner.ffcsCMSL.UpgradeLicense.GetCustSerialNoByLicNoAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:DigitalSigner.ffcsCMSL.UpgradeLicense.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:DigitalSigner.ffcsCMSL.GetFinYearCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:DigitalSigner.ffcsCMSL.GetFinYearCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:DigitalSigner.ffcsCMSL.GetFinYearCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:DigitalSigner.ffcsCMSL.GetCustSerialNoByLicNoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:DigitalSigner.ffcsCMSL.GetCustSerialNoByLicNoCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:DigitalSigner.ffcsCMSL.GetCustSerialNoByLicNoCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>
